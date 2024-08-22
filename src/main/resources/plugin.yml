@@ -1,0 +1,7 @@
+name: ResourcePoint
+version: '${project.version}'
+main: com.resourcepoint.ResourcePoint
+commands:
+  srcpnt:
+    description: "创建资源点"
+    permission: ResourcePoint.Main
